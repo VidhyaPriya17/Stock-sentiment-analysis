@@ -14,7 +14,7 @@ This project aims to analyze sentiment related to stocks using natural language 
 
 Follow these steps to run the sentiment analysis code:
 
-1. **Clone the Repository**: Clone this repository to your local machine using the following command: https://github.com/your_username/stock-sentiment-analysis.git
+1. **Clone the Repository**: Clone this repository to your local machine using the following command: https://github.com/VidhyaPriya17/stock_sentiment_analysis.git
 
 3. **Preprocess Data**: If necessary, preprocess the data by cleaning, tokenizing, and vectorizing text data.
 
